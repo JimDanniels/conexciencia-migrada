@@ -76,13 +76,25 @@ conexciencia-migrada/
 
 ---
 
+## 🌐 Sitio en vivo
+
+El sitio está desplegado en Netlify:
+
+<p align="center">
+  <a href="https://conexciencia-migrada.netlify.app/" target="_blank">
+    <strong>conexciencia-migrada.netlify.app</strong>
+  </a>
+</p>
+
+---
+
 ## 🚀 Instalación
 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/JimDanniels/conexciencia-migrada.git
    ```
-2. Abre el archivo `index.html` en tu navegador favorito.
+2. Abre `index.html` en tu navegador favorito.
 
 > No requiere dependencias ni servidor — es una página 100% estática.
 
