@@ -1,0 +1,5 @@
+Repositorio GitHub:
+https://github.com/JimDanniels/conexciencia-migrada
+
+Sitio desplegado en Netlify:
+https://conexciencia-migrada.netlify.app/
