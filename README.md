@@ -8,7 +8,7 @@
     <a href="#-tecnologías">Tecnologías</a> •
     <a href="#-estructura">Estructura</a> •
     <a href="#-instalación">Instalación</a> •
-    <a href="#-fases-del-proyecto">Fases</a>
+    <a href="#-entregables-académicos">Entregables</a>
   </p>
 </div>
 
@@ -80,7 +80,7 @@ conexciencia-migrada/
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/conexciencia.git
+   git clone https://github.com/JimDanniels/conexciencia-migrada.git
    ```
 2. Abre el archivo `index.html` en tu navegador favorito.
 
@@ -88,13 +88,16 @@ conexciencia-migrada/
 
 ---
 
-## 📦 Fases del proyecto
+## 📦 Entregables académicos
 
-| Fase | Descripción | Entregable |
-|------|-------------|------------|
-| **Fase 1** | Maqueta HTML semántico con la estructura completa | `TA_06` |
-| **Fase 2** | Aplicación de estilos CSS para identidad visual | `TA_06` |
-| **Fase 3** | Migración a template + interactividad con JavaScript | `TA_07` |
+El proyecto se desarrolló en 4 entregas a lo largo del curso:
+
+| Entregable | Descripción | Contenido |
+|------------|-------------|-----------|
+| **TA_2** (Eval. N°1) | Mockup HTML semántico sin estilos — estructura base del sitio | Unidad I: Fundamentos de Desarrollo Web |
+| **TA_4** (Eval. N°2) | Aplicación de estilos CSS — diseño visual, colores, tipografía y layout | Unidad II: Diseño Web y CSS |
+| **TA_6** (Eval. N°3) | Migración a template estándar + interactividad con JavaScript | Unidad III: Introducción a JavaScript |
+| **TA_EX_7** (Examen Final) | Versión final del proyecto, despliegue en GitHub y Netlify, video de presentación | Examen Final |
 
 ---
 
